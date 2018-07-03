@@ -13,8 +13,8 @@ WordPress files should go inside the `/public` folder which becomes the root ser
 I have tried to keep this project as basic and simple as possible. \
 For your own benefit, I'd encourage you to get a basic understanding of how Docker works.
 
-1. Make sure you have `Docker` and `docker-compose` installed.
+1. Make sure you have `Docker` and `docker-compose` [installed](https://www.docker.com/community-edition#/download).
 2. Clone this repository locally.
 3. Modify the `docker-compose.yml` file to match your desired local setup.
-5. Install WordPress in the `/public` directory.
+5. Install [WordPress](https://wordpress.org/) in the `/public` directory.
 4. Execute `docker-compose up -d` from the root directory of the repository.
