@@ -1,0 +1,2 @@
+# exclude unnecessary/system files
+.DS_STORE
